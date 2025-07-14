@@ -1,0 +1,90 @@
+body{
+background-color: f8faea;
+}
+
+ul a{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+li{
+display: inline-block;
+height: 22px;
+width: 150px;
+padding: 12px;
+text-align: center;
+color: white;
+border-left: 2px solid green;
+border-right: 1px solid green;
+background-color: darkblue;
+}
+li:hover{
+background-color: lightblue;
+border-style: none;
+}
+
+h1{
+margin-left: 100px;
+color: #1c1c5e;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+color: #1c1c5e;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+color: #1c1c5e;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.ButtonsDiv {
+  margin-left: 50px;
+}
+.div {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.tabel_werk table {
+    border: 1px solid #dededf;
+    height: 100%;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    text-align: left;
+}
+
+
+.tabel_werk th {
+    border: 1px solid #dededf;
+    background-color:  darkblue;
+    color: #ffffff;
+    padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.tabel_werk td {
+    border: 1px solid #dededf;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.formulier th {
+    
+    background-color:  darkblue;
+    color: #ffffff;
+    padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.formulier td {
+    
+    background-color: #ffffff;
+    color: #000000;
+    padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+}
