@@ -88,3 +88,9 @@ font-family: Arial, Helvetica, sans-serif;
     padding: 0px;
 	font-family: Arial, Helvetica, sans-serif;
 }
+
+.formulier table {
+	width: 400px;
+	border: 0;
+
+}
